@@ -1,5 +1,5 @@
 import React from 'react'
-import Logo from '../../assets/Images/img4.png'
+import Logo from '../../assets/Images/img1.png'
 import DarkMode from './DarkMode'
 import { HiMenuAlt3, HiMenuAlt1 } from 'react-icons/hi'
 import ResponsiveMenu from './ResponsiveMenu'
