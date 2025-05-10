@@ -46,7 +46,7 @@ const ResourcesLinks = [
   },
   {
     title: "Owner",
-    link: "https://main.d2e5a28w5cd74o.amplifyapp.com/",
+    link: "https://main.dfiwkrk7wa7n4.amplifyapp.com/",
   },
 ];
 const Footer = () => {
