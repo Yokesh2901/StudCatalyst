@@ -68,7 +68,7 @@ const Footer = () => {
               <a href="https://www.instagram.com/yovan_morning_star?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==">
                 <FaInstagram className="text-2xl hover:text-primary duration-300" />
               </a>
-              <a href="https://main.d2e5a28w5cd74o.amplifyapp.com/">
+              <a href="https://main.dfiwkrk7wa7n4.amplifyapp.com/">
                 <FaWebAwesome className="text-2xl hover:text-primary duration-300" />
               </a>
               <a href="https://www.linkedin.com/in/yokesh-s-590332260/">
